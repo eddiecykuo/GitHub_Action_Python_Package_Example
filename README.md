@@ -48,3 +48,4 @@ print(message.get_message())
 # License
 
 [MIT](https://github.com/louis70109/line-notify/blob/master/LICENSE) © [NiJia Lin](https://nijialin.com/about/)
+
